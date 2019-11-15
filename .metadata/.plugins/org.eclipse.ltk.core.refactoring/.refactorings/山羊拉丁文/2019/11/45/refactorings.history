@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;题目描述&apos; to &apos;验证外星语词典/src&apos;&#x0D;&#x0A;- Original project: &apos;山羊拉丁文&apos;&#x0D;&#x0A;- Destination element: &apos;验证外星语词典/src&apos;&#x0D;&#x0A;- Original element: &apos;题目描述&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="=验证外星语词典/src" element1="src/题目描述" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1572937021931" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;题目描述&apos; to &apos;快乐数/src&apos;&#x0D;&#x0A;- Original project: &apos;回文数&apos;&#x0D;&#x0A;- Destination element: &apos;快乐数/src&apos;&#x0D;&#x0A;- Original element: &apos;题目描述&apos;" description="Copy file" destination="=快乐数/src" element1="src/题目描述" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1573800145445" units="0" version="1.0"/>
+</session>

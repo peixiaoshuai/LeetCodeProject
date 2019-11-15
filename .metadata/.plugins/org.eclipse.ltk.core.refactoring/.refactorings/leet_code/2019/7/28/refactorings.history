@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;leet_code/src/Bigram分词/题目描述：&apos; to &apos;题目描述&apos;" description="Rename resource &apos;题目描述：&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Bigram分词/题目描述：" name="题目描述" stamp="1562838352725" updateReferences="true"/>
+</session>

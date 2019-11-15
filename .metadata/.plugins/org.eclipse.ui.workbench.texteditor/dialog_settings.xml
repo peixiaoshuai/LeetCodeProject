@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="273" key="DIALOG_WIDTH"/>
+		<item value="387" key="DIALOG_Y_ORIGIN"/>
+		<item value="399" key="DIALOG_HEIGHT"/>
+		<item value="1393" key="DIALOG_X_ORIGIN"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="findOcurrences" key="selection"/>
+		<list key="findhistory">
+			<item value="findOcurrences"/>
+			<item value="private static String[] map = {"/>
+			<item value="ca"/>
+			<item value="1225 lmm.ca"/>
+			<item value="9219 tfm.ca"/>
+			<item value="["/>
+			<item value="]"/>
+			<item value="&quot;"/>
+		</list>
+		<list key="replacehistory">
+			<item value="{"/>
+			<item value="}"/>
+			<item value="&apos;"/>
+		</list>
+	</section>
+</section>

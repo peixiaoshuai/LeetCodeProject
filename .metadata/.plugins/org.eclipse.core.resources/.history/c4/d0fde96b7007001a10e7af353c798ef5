@@ -1,0 +1,14 @@
+package 解题方法;
+
+public class Solution2 {
+	public boolean isHappy(int n) {
+		
+	}
+	
+	int bitSquareSum(int n){
+		int sum = 0;
+		while(n != 0){
+			
+		}
+	}
+}

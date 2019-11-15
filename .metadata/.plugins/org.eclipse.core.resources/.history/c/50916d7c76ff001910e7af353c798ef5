@@ -1,0 +1,15 @@
+package 解题方法;
+
+public class Solution {
+	public boolean isAlienSorted(String[] words, String order) {
+		boolean res = true;
+		for (String word : words) {
+			for (int i = 0; i < word.toCharArray().length; i++) {
+				for (int j = 0; j < word.toCharArray().length; j++) {
+					
+				}
+			}
+		}
+		
+	}
+}

@@ -1,0 +1,20 @@
+package 解题方法;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Solution {
+	public boolean isHappy(int n) {
+		Set<Integer> set = new HashSet<Integer>();
+		int squareSum = 0;
+		while(true){
+			while(n != 0){
+				squareSum = (n % 10) * (n % 10); 
+				n = n / 10;
+			}
+			if(m == 1){
+				
+			}
+		}
+	}
+}

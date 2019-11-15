@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 17 resources" deleteContents="false" description="Delete 17 resources" element1="/查询后的偶数和" element10="/用队列实现栈" element11="/用栈实现队列" element12="/找不同" element13="/字母大小写全排列" element14="/Bigram分词" element15="/FizzBuzz" element16="/leet_code" element17="/leetCode" element2="/二进制间距" element3="/交替位二进制数" element4="/罗马数字转整数" element5="/求众数" element6="/删除字符串中的所有相邻重复项" element7="/数组的相对排序" element8="/托普利茨矩阵" element9="/下一个更大元素I" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="17" stamp="1564471576156"/>
+</session>

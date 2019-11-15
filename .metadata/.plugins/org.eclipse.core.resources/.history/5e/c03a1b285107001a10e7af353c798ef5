@@ -1,0 +1,13 @@
+package 解题方法;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Solution {
+	public boolean isHappy(int n) {
+		Set<Integer> set = new HashSet<Integer>();
+		while(true){
+			
+		}
+	}
+}

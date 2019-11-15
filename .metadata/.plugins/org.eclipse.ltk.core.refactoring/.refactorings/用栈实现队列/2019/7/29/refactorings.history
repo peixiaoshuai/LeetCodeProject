@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;MyQueue&apos; to &apos;解题方法&apos;&#x0D;&#x0A;- Original project: &apos;用栈实现队列&apos;&#x0D;&#x0A;- Original element: &apos;用栈实现队列/src/MyQueue&apos;&#x0D;&#x0A;- Renamed element: &apos;用栈实现队列/src/解题方法&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;MyQueue&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;MyQueue" name="解题方法" qualified="false" references="true" stamp="1563245607051" textual="false" version="1.0"/>
+</session>

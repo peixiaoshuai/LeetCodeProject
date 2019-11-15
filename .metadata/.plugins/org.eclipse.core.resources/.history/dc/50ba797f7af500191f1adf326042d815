@@ -1,0 +1,32 @@
+package Test;
+
+import java.awt.Point;
+import java.util.Arrays;
+
+import 解题方法.Solution;
+
+public class Test {
+	public static void main(String[] args) {
+//		Solution solution = new Solution();
+//		
+//		int[] nums = {0,1,2,2,3,0,4,2};
+//		
+//		int val = 2;
+//		
+//		int result = solution.removeElement(nums, val);
+//		
+//		System.out.println("a".length());
+//		System.out.println(Arrays.toString(nums));
+		
+		String a = new String("a");
+	}
+	public static void change(Point p1,Point p2) {
+		Point temp = p1;
+		p1 = p2;
+		
+		p2 = temp;
+		
+		p1.setLocation(5, 5);
+		p2 = new Point(5, 5);
+	}
+}

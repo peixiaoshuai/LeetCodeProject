@@ -1,0 +1,7 @@
+package 解题方法;
+
+public class Solution {
+public boolean isHappy(int n) {
+        
+    }
+}

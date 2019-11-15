@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;题目描述&apos; to &apos;移除元素/src&apos;&#x0D;&#x0A;- Original project: &apos;有效的字母异位词&apos;&#x0D;&#x0A;- Destination element: &apos;移除元素/src&apos;&#x0D;&#x0A;- Original element: &apos;题目描述&apos;" description="Copy file" destination="=移除元素/src" element1="src/题目描述" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1571809742371" units="0" version="1.0"/>
+</session>

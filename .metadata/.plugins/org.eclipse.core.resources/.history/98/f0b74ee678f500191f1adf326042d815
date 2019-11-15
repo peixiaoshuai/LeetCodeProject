@@ -1,0 +1,16 @@
+package mythread;
+
+public class TicketWindow extends Thread implements Runnable{
+	
+	private static final int MAX = 50;
+	
+	private static int index = 1;
+	
+	
+	@Override
+	public void run() {
+		while(index <= MAX){
+			System.err.println(name+"当前叫号为："+index++);
+		}
+	}
+}
