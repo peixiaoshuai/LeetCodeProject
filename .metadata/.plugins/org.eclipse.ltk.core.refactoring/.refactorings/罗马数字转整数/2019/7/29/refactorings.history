@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;Test.java&apos; to &apos;罗马数字转整数/src/Test&apos;&#x0D;&#x0A;- Original project: &apos;罗马数字转整数&apos;&#x0D;&#x0A;- Destination element: &apos;罗马数字转整数/src/Test&apos;&#x0D;&#x0A;- Original element: &apos;Test.Test.java&apos;" description="Copy compilation unit" destination="/src&lt;Test" element1="/src&lt;Test{Test.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1563358799392" units="1" version="1.0"/>
-</session>

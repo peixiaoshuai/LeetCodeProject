@@ -1,7 +1,0 @@
-package 解题方法;
-
-public class Solution {
-	public boolean isAlienSorted(String[] words, String order) {
-
-	}
-}
